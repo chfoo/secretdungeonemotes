@@ -1,13 +1,13 @@
 # Secret Dungeon Emotes for Twitch.tv
 A set of cool (in-joke) emoticons that you can use anywhere on **[Twitch](http://www.twitch.tv)**. They are born out of small communities created from Twitch's Group Chats functionality -- or as we like to refer to them, "dungeons".
 
-**NEW: SDE now exists as a Google Chrome extension! [Install Secret Dungeon Emotes in Chrome here!](http://chrome.google.com/webstore/detail/secret-dungeon-emotes/fljimgaiflbdcihhihlmccpdfnlcedcm)**
+Scroll down for installation instructions.
 
 ## What you get
 
 We are continually adding new cool emoticons to our list! Right now, we have the following:
 
-**Last updated: May 18, 2015**
+**Last updated: Nov 27th, 2015**
 
 * ![appaK](images/appaK.png) appaK
 * ![Breject](images/Breject.png) Breject
@@ -21,14 +21,15 @@ We are continually adding new cool emoticons to our list! Right now, we have the
 * ![ForeverAron](images/ForeverAron.png) ForeverAron
 * ![HateChatot](images/HateChatot.png) HateChatot
 * ![JoltikZ](images/JoltikZ.png) JoltikZ
-* ![LoveChatot](images/LoveChatot.png) LoveChatot
+* ![LoveBlaziken](images/LoveBlaziken.png) LoveBlaziken
+* ![LoveChatot](images/LoveChatot.png?2) LoveChatot
 * ![MlneBoom](images/MlneBoom.png) MlneBoom
 * ![NeckTube](images/NeckTube.png) NeckTube
 * ![OoohKaz](images/OoohKaz.png) OoohKaz
 * ![PutainRage](images/PutainRage.png) PutainRage
 * ![RateSnog](images/RateSnog.png) RateSnog
 * ![SlowpieOP](images/SlowpieOP.png) SlowpieOP
-* ![SerenaFish](images/SerenaFish.png) SerenaFish
+* ![SerenaFish](images/SerenaFish.png?2) SerenaFish
 * ![TipScales](images/TipScales.png) TipScales
 * ![TriKapp](images/TriKapp.png) TriKapp
 * ![WooperZ](images/WooperZ.png) WooperZ
